@@ -7,4 +7,4 @@ Projeto para montar um temporizador, relógio e cronômetro funcionais, com bot�
 * React.js
 * Tailwind CSS
 
-### Me siga no Linkedin [Leonardo Oliveira](https://linkedin.com/leonardo_oliveira)
+### Me siga no Linkedin [Leonardo Oliveira](https://www.linkedin.com/in/leonardono/)
