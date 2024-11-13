@@ -7,4 +7,4 @@ This is a project of a clock, timer and stopwatch, with navbar, routes, componen
 * Tailwindcss
 * React Router
 
-## [Follow me in Linkedin](https://linkedin/in/leonardono)
+## [Follow me in Linkedin](https://www.linkedin.com/in/leonardono/)
