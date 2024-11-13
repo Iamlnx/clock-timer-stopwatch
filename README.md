@@ -1,10 +1,11 @@
-# Temporizador, Relógio e Cronômetro
+# Clock, Timer and Stopwatch
 
-Projeto para montar um temporizador, relógio e cronômetro funcionais, com botões de navegação, de pausar, iniciar e resetar!
+Project of a clock, timer and stopwatch, with a navbar and action buttons!
 
-## Tecnologias envolvidas no projeto
+## Technologies
 
 * React.js
+* Typescript
 * Tailwind CSS
 
-### Me siga no Linkedin [Leonardo Oliveira](https://www.linkedin.com/in/leonardono/)
+### Come check my Linkedin [Leonardo Oliveira](https://www.linkedin.com/in/leonardono/)
